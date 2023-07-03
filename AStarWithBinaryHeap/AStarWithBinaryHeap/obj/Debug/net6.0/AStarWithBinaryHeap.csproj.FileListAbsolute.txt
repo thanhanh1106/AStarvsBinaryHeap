@@ -1,0 +1,15 @@
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\bin\Debug\net6.0\AStarWithBinaryHeap.exe
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\bin\Debug\net6.0\AStarWithBinaryHeap.deps.json
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\bin\Debug\net6.0\AStarWithBinaryHeap.runtimeconfig.json
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\bin\Debug\net6.0\AStarWithBinaryHeap.dll
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\bin\Debug\net6.0\AStarWithBinaryHeap.pdb
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.csproj.AssemblyReference.cache
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.AssemblyInfoInputs.cache
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.AssemblyInfo.cs
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.dll
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\refint\AStarWithBinaryHeap.dll
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.pdb
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\AStarWithBinaryHeap.genruntimeconfig.cache
+C:\Users\anh\source\repos\AStarWithBinaryHeap\AStarWithBinaryHeap\obj\Debug\net6.0\ref\AStarWithBinaryHeap.dll
